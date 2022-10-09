@@ -14,7 +14,7 @@ The program should:
 
 ## File Layout ##
 * Extract JavaAssign3_Khilan_Kamlesh_2307483.zip and open folder as project in IntelliJ IDEA Community Edition.
-* Code design and implementation in src/StudentMarking.java
+* Code design and implementation in Assignment213/src/StudentMarking.java
 * Assignment213/locations.txt contains all possible locations and descriptions to be read by the program.
 * Assignment213/directions.txt contains all possible destinations for each location to be read by the program.
 * Assignment213/testFiles folder includes .txt files to test the functionality and edge case scenarios in IntelliJ after completing a section of code.
