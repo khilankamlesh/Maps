@@ -12,7 +12,7 @@ The program should:
 * Determine possible exits from the current position
 * Allow the player to move to another valid direction
 
-## File Layout ##
+## Project Layout ##
 * Extract JavaAssign3_Khilan_Kamlesh_2307483.zip and open folder as project in IntelliJ IDEA Community Edition.
 * Code design and implementation in Assignment213/src/StudentMarking.java
 * Assignment213/locations.txt contains all possible locations and descriptions to be read by the program.
